@@ -68,3 +68,7 @@ address = my-tf-test-bucket
 ## How do make changes in terraform ?
 
 Jutst goto src/main.tf and do you code there. There are specific configs there in order to mock aws with localstack.
+
+## How to Check "Objects" created on "AWS"?
+
+Just goto: http://localhost:8080/#/infra
